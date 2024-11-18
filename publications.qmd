@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Current and Past Projects"
 bibliography: references.bib
 ---
 
@@ -15,7 +15,7 @@ Hesketh, A.\*; **Loesberg, J.**\*; Bledsoe, E.; Karst, J.; Macdonald, E. 2022. S
 
 Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**, C.R. Robins; Meyer, W.M. 2019. Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. Ecology and Evolution 9(8): 1-14.
 
-# Projects in progress
+# Manuscripts in progress
 
 (In prep) Jennifer L. Williams, Amy L. Angert, Aldo Compagnoni, Ali Campbell, Megan L. DeMarche, Margaret E. K. Evans, Joshua C. Fowler, Edgar J. González, Amy M. Iler, **Jenna A. Loesberg**, Allison M. Louthan, Alexandra Jimenez Martin, Jacob K. Moutouama, Scott W. Nordstrom, William K. Petry, Bilgecan Şen, Seema N. Sheth, Tom E. X. Miller. Linking climate to demography to predict future climate change impacts on population dynamics and persistence. *In preparation to send to Ecology Letters*
 
