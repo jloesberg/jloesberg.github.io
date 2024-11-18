@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evan Muise",
+    "section": "",
+    "text": "Hello! My name is Evan, and I am a PhD candidate at the Integrated Remote Sensing Studio at the University of British Columbia.\nI currently research how we can use satellite products such as forest structure and productivity metrics to assess protected area effectiveness and ecological integrity. At the moment, I am working on assessing the impact of the human footprint on ecological integrity across Vancouver Island.\nMy broader research interests big data processing, and how we can use satellite imagery to assess biodiversity from space. I am hugely interested in reproducible science, and typically use R (and Quarto) in my day to day work, although I do dabble in Python and would love to learn Julia, if I ever find the time.\nOutside of work, I am an amateur birder and enjoy powerlifting, running, and playing recreational soccer. I spend a lot of my free time hiking and backpacking, and also enjoy playing video games.\nEvan"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here are the papers I have been involved in!\nMuise, E.R., Andrew, M.E., Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S., 2024. Disentangling linkages between satellite-derived indicators of forest structure and productivity for ecosystem monitoring. Sci Rep 14, 13717. https://doi.org/10.1038/s41598-024-64615-2\nMuise, E.R., Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. https://doi.org/10.1002/eap.2603"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education\nPhD. Forestry - Department of Forest Resources Management, University of British Columbia, 2025\nB.Sc Honours Environmental Science - Dalhousie University, 2020\nGIS Certificate - Dalhousie University, 2020\n\n\nPublications\nShen, X., Cao, L., Ma, Y., Coops, N.C., Muise, E.R., Wang, G., Cao, F. In Review. Estimating structure of understory bamboo for giant panda habitat by developing an advanced vertical vegetation classification approach using UAS-LiDAR data. Submitted to Int J Appl Earth Obs.\nMuise, E.R., Andrew, M.E., Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S., 2024. Disentangling linkages between satellite-derived indicators of forest structure and productivity for ecosystem monitoring. Sci Rep 14, 13717. https://doi.org/10.1038/s41598-024-64615-2\nMuise, E.R., Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. https://doi.org/10.1002/eap.2603\n\n\nPresentations\nMuise, E.R., Nicholas Coops, Chris Mulverhill, Txomin Hermosilla (2024). Estimating the integrated and individual impacts of the human footprint on forest ecosystem structure and function. Presentation at ForestSAT, Rotorua, New Zealand.\nMuise, E.R., Nicholas Coops, Txomin Hermosilla, Stephen Ban. (2022). Monitoring forest structural representation across a network of protected areas. Presentation at ForestSAT, Berlin, Germany.\nMuise, E.R., Nicholas Coops (2020). Documenting structural land cover change and disturbance across provincial BC parks for biodiversity assessment. Presentation at BC Park’s Living Lab Colloquium, Victoria, Canada.\n\n\nAwards\n2024; 2023; 2022 President’s Academic Excellence Initiative PhD Award\n2023 Oscar Soderman Memorial Bursary\n2023 R D Winkler Bursary in Forestry\nNSERC Undergrad Student Research Awards, 2018\n\n\nPrior Experience\nJunior Program Officer (PM-01) - Natural Resources Canada, Sept 2018 - May 2019\nUrban Forest Research Assistant - REMLab - Faculty of Management - Dalhousie University, May 2018 to Sept 2018"
+  }
+]

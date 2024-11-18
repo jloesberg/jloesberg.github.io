@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here are the papers I have been involved in!\nShen, X., Cao, L., Ma, Y., Coops, N.C., Muise, E.R., Wang, G., Cao, F. In Review. Estimating structure of understory bamboo for giant panda habitat by developing an advanced vertical vegetation classification approach using UAS-LiDAR data. Submitted to Int J Appl Earth Obs.\nMuise, E.R., Andrew, M.E., Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S., 2024. Disentangling linkages between satellite-derived indicators of forest structure and productivity for ecosystem monitoring. Sci Rep 14, 13717. https://doi.org/10.1038/s41598-024-64615-2\nMuise, E.R., Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. https://doi.org/10.1002/eap.2603"
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html",
+    "href": "posts/2024-08-27_RF-primer/index.html",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "",
+    "text": "A note: This document was created for GEOB503 at the University of British Columbia in May of 2021. A full document can be found at:\nDownload"
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html#classification-and-regression-trees",
+    "href": "posts/2024-08-27_RF-primer/index.html#classification-and-regression-trees",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "Classification and Regression Trees",
+    "text": "Classification and Regression Trees\nClassification and regression trees (hereafter CART; also referred to as decision trees) are predictive models that predict output features by creating splits in various attributes in the dataset (Rokach and Maimon 2007). These splits create nodes, labeled with input features. In the case of a continuous input variable, the node will be split based on being higher or lower than a value in the input variable. In the opposite case, where the input variable is a class (such as land cover), the node will be based on one value versus all others. CART models are scale invariant, can ignore irrelevant features, and are easily interpretable by the end user (Breiman 2017). In addition, CART models can handle highly nonlinear and conditional relationships. However, not all is perfect with these classification trees. They often overfit the model, leading to low bias and high variance. Due to this tendency to overfit, methods such as bagging and boosting are frequently employed to aid with these problems (Sutton 2005)."
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html#sec-bagging",
+    "href": "posts/2024-08-27_RF-primer/index.html#sec-bagging",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "Bagging (Bootstrap Aggregation)",
+    "text": "Bagging (Bootstrap Aggregation)\nBootstrapping is a resampling method for calculating statistics on a dataset. The specific methodology is to resample with replacement in order to mimic the sampling process. This involves taking a dataset, and selecting the same number of observations, but allowing for the same observation to be reobserved. This allows users to derive estimates of variance and confidence intervals for a single dataset (Breiman 1996).\nBagging, or bootstrap aggregation, occurs when a bootstrap resampled dataset is used to create a model multiple times. The results from this ensemble of models is aggregated to generate a predictor from the many models (Breiman 1996). This has been done using all input features in the form of bagged regression trees (Sutton 2005). Bagging does not reweight the input models to improve accuracy; a simple vote or average is used from all of the bagged models (Sutton 2005). This ensemble method can have improved accuracy over a single CART model. While the bagged models may have higher accuracy, the same predictors can dominate the models, reducing the potential maximum accuracy (Ho 2002)."
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html#random-forest",
+    "href": "posts/2024-08-27_RF-primer/index.html#random-forest",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "Random Forest",
+    "text": "Random Forest\nWhile bagged CART models can be a powerful method for classification and regression, with marked improvements over non-ensemble CART models, there is still room for improvement. When strong predictor features are present in the data, it is entirely possible for these few strong predictors to dominate the ensemble (Ho 2002). Where Random Forest differs from bagged regression trees is in the use of the Random Subspace method, which uses a subset of all potential input features to train each tree. The Random Subspace method prevents these strong predicting features from dominating the resultant model (Tin Kam Ho 1998).\nIn summary, the Random Forest algorithm creates many classification and regression tree models based off a bootstrap of the dataset and features (Breiman 2001). These models are then aggregated into an ensemble model by averaging the model outputs (regression), or via votes (classification). This is a powerful advancement from simple CART models, which frequently overfit, and on bagged CART models, which may become dominated by strong predicting features (Breiman 2001; Tin Kam Ho 1998)."
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html#assumptions",
+    "href": "posts/2024-08-27_RF-primer/index.html#assumptions",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "Assumptions",
+    "text": "Assumptions\nOne of the strengths of Random Forest is the algorithm’s robustness. No formal distributions need to be followed, and the algorithm can handle both categorical and numerical data, which can be skewed or multi-modal. The algorithm’s robustness leads to the Random Forest being incredibly powerful, and useful in many circumstances for both classification and regression."
+  },
+  {
+    "objectID": "posts/2024-08-27_RF-primer/index.html#diagnostics",
+    "href": "posts/2024-08-27_RF-primer/index.html#diagnostics",
+    "title": "A non-statistician’s guide to random forests",
+    "section": "Diagnostics",
+    "text": "Diagnostics\n\nOut of Bag Error\nThe out of bag error is a validation method specifically applied to algorithms making using of the bagging approach outlined in Section 2.2. For each tree, the model is trained on those samples that are within the bootstrap, and then tested on those that were not included on the bootstrap for each tree. Those that are not included in the bootstrap are termed the “Out of Bag sample”, and the error is calculated for each tree as the number of correctly predicted rows from the out of bag sample. It is recorded as each new tree is generated and the ensemble predictions change.\n\n\nVariable Importance\nDue to the high volume of variables potentially included in a Random Forest model, it can be relevant to the researcher to examine which variables contribute most to the model. This can be accomplished due to the recording of the Out of Bag error after each tree is generated. Each instantaneous (after each tree) error, can be compared to those found after the final trees are produced. This generates a score which can be used to rank the variables. Those with larger scores are considered more important than those with smaller scores (Zhu, Zeng, and Kosorok 2015). It should be noted that there is a bias in Random Forest to favour categorical variables with high numbers of levels, however this can be overcome using other variants on the Random Forest algorithm (Toloşi and Lengauer 2011; Altmann et al. 2010).\n\n\nCohen’s Kappa\nCohen’s kappa (\\(k\\)) is a measurement of categorical accuracy. It can be used with the Random Forest algorithm when used a classifier, but not as a regressor. \\(k\\) includes the possibility of chance agreement, rendering it a more robust measurement than percent agreement. It is calculated using the confusion matrix of a classification algorithm.\n\\[\n  k = \\frac{p_o - p_e}{1 - p_e} = 1 - \\frac{1 - p_o}{1 - p_e}\n\\tag{1}\\]\nThe calculation for Cohen’s Kappa is shown in Equation 1, where \\(p_o\\) is the observed agreement, and \\(p_e\\) is the hypothetical probability of chance agreement (Cohen 1960). More detailed equations and calculations used in Cohen’s kappa for nominal data of many classes can be found in Cohen (1960).\n\n\nReceiver Operating Characteristic Area Under the Curve\nThe Receiver Operating Characteristic (ROC) is a diagnostic plot that is used to examine binary classifiers. The ROC plots the false positive rate against the true positive rate for a binary classifier. This shows the performance of the model at all classification thresholds.\nThe Area Under the Curve (AUC) for the ROC is another diagnostic included in this plot. Higher AUC values are desirable, with a perfect model having an AUC of 1.0. The AUC is scale-invariant, and measures prediction quality regardless of the classification threshold (Fawcett 2006).\n\n\nRegression Diagnostics\nDiagnostic procedures for operating Random Forest as a regression algorithm are similar to other regression diagnostics. The \\(R^2\\) is commonly used alongside various error statistics such as Root Mean Square Error, Mean Absolute Error, among others. These can be compared between model parameters or other types of regression."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Education\nPhD. Forestry - Department of Forest Resources Management, University of British Columbia, 2025\nB.Sc Honours Environmental Science - Dalhousie University, 2020\nGIS Certificate - Dalhousie University, 2020\n\n\nPublications\nShen, X., Cao, L., Ma, Y., Coops, N.C., Muise, E.R., Wang, G., Cao, F. In Review. Estimating structure of understory bamboo for giant panda habitat by developing an advanced vertical vegetation classification approach using UAS-LiDAR data. Submitted to Int J Appl Earth Obs.\nMuise, E.R., Andrew, M.E., Coops, N.C., Hermosilla, T., Burton, A.C., Ban, S.S., 2024. Disentangling linkages between satellite-derived indicators of forest structure and productivity for ecosystem monitoring. Sci Rep 14, 13717. https://doi.org/10.1038/s41598-024-64615-2\nMuise, E.R., Coops, N.C., Hermosilla, T., Ban, S.S., 2022. Assessing representation of remote sensing derived forest structure and land cover across a network of protected areas. Ecological Applications 32, e2603. https://doi.org/10.1002/eap.2603\n\n\nPresentations\nMuise, E.R., Nicholas Coops, Chris Mulverhill, Txomin Hermosilla (2024). Estimating the integrated and individual impacts of the human footprint on forest ecosystem structure and function. ForestSAT. September 9th-13th, 2024. Rotorua, New Zealand.\nMuise, E.R., Nicholas Coops, Txomin Hermosilla, Stephen Ban. (2022). Monitoring forest structural representation across a network of protected areas. ForestSAT. August 29th - September 3rd, 2024. Berlin, Germany.\nMuise, E.R., Nicholas Coops (2020). Documenting structural land cover change and disturbance across provincial BC parks for biodiversity assessment. BC Park’s Living Lab Colloquium. December 1st, 2020. Victoria, Canada.\n\n\nAwards\n2024; 2023; 2022 President’s Academic Excellence Initiative PhD Award\n2023 Oscar Soderman Memorial Bursary\n2023 R D Winkler Bursary in Forestry\nNSERC Undergrad Student Research Awards, 2018\n\n\nPrior Experience\nJunior Program Officer (PM-01) - Natural Resources Canada, Sept 2018 - May 2019\nUrban Forest Research Assistant - REMLab - Faculty of Management - Dalhousie University, May 2018 to Sept 2018"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Evan Muise",
+    "section": "",
+    "text": "Hello! My name is Evan, and I am a PhD candidate at the Integrated Remote Sensing Studio at the University of British Columbia.\nI currently research how we can use satellite products such as forest structure and productivity metrics to assess protected area effectiveness and ecological integrity. At the moment, I am working on assessing the impact of the human footprint on ecological integrity across Vancouver Island.\nMy broader research interests are big data processing, and how we can use satellite imagery to assess biodiversity from space. I am hugely interested in reproducible science, and typically use R (and Quarto) in my day to day work, although I do dabble in Python and would love to learn Julia, if I ever find the time.\nOutside of work, I am an amateur birder and enjoy powerlifting, running, and playing recreational soccer. I spend a lot of my free time hiking and backpacking, and also enjoy playing video games.\nEvan"
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "Blog",
+    "section": "",
+    "text": "A non-statistician’s guide to random forests\n\n\nRandom Forest is a powerful ensemble machine learning algorithm suitable for both classification and regression problems. By combining bootstrap aggregation with decision…\n\n\n\nEvan Muise\n\n\nDec 31, 2020\n\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
