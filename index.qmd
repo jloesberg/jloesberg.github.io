@@ -6,7 +6,7 @@ about:
   image-shape: round
   image-width: 20em
   links: 
-    - icon: Email
+    - icon: flower1
       text: Williams' Lab
       href: https://williamslabubc.weebly.com/
     - icon: github
@@ -14,11 +14,11 @@ about:
       href: https://github.com/jloesberg
     - icon: envelope-at
       text: Email
-      href: mailto:jloesber@student.ubc.ca
+      href: jloesber@student.ubc.ca
 ---
 
-I'm a PhD candidate with Jennifer Williams in the Department of Geography and the Biodiversity Research Centre at the Univeristy of British Columbia. I'm a plant population ecologist (although I also have a background working with small mammals).
+I'm a PhD candidate with Jennifer Williams in the Department of Geography and the Biodiversity Research Centre at the University of British Columbia. I'm a plant population ecologist (although previously I have worked with small mammals).
 
-I'm broadly interested in understanding the demographic processes underlying population response to changes in precipitation and temperature. My research interests also include informing conversation efforts of rare species and ecosystems through demographic modeling.
+I'm broadly interested in understanding the demographic processes underlying population responses to changes in precipitation and temperature. My research interests also include informing conversation efforts of rare species and ecosystems with demographic modeling.
 
-My PhD examines how life-history trade-offs (costs of reproduction; clonal versus sexual reproduction), conspecific neighbors, and density of invasive plant neighbors interact with climate drivers to influence plant demography and population persistence. I look at these processes in native forbs and invasive grasses within a rainfall manipulation experiment in Garry Oak meadows on Vancouver Island.
+My PhD examines how life-history trade-offs (costs of reproduction; trade-offs between clonal and sexual reproduction), conspecific neighbors, and density of invasive plant neighbors interact with climate drivers to influence plant demography and population persistence. I look at these processes in native forbs and invasive grasses within a long term rainfall manipulation experiment in Garry Oak meadows on Vancouver Island.
