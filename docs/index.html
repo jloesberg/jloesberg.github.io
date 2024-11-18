@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Evan Muise</title>
+<title>Jenna Loesberg</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -78,11 +78,11 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Evan Muise</span>
+    <span class="navbar-title">Jenna Loesberg</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
@@ -99,13 +99,9 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./posts.html"> 
-<span class="menu-text">Blog</span></a>
-  </li>  
 </ul>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
+          <div class="quarto-navbar-tools">
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -116,42 +112,36 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-trestles">
+<div class="quarto-about-trestles content">
   <div class="about-entity">
-    <img src="media/Bud1.png" class="about-image
+    <img src="media/IMG_3819-1.jpeg" class="about-image
   round " style="height: 20em; width: 20em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Evan Muise</h1>
+<h1 class="title">Jenna Loesberg</h1>
 </div>
 <div class="quarto-title-meta">
   </div>
 </header>
     <div class="about-links">
-  <a href="https://www.linkedin.com/in/evanmuise/?originalSubdomain=ca" class="about-link" rel="" target="">
-    <i class="bi bi-linkedin"></i>
-     <span class="about-link-text">LinkedIn</span>
+  <a href="https://williamslabubc.weebly.com/" class="about-link" rel="" target="">
+    <i class="bi bi-flower1"></i>
+     <span class="about-link-text">Williams’ Lab</span>
   </a>
-  <a href="https://x.com/evanmuise" class="about-link" rel="" target="">
-    <i class="bi bi-twitter"></i>
-     <span class="about-link-text">Twitter/X</span>
-  </a>
-  <a href="https://github.com/emuise" class="about-link" rel="" target="">
+  <a href="https://github.com/jloesberg" class="about-link" rel="" target="">
     <i class="bi bi-github"></i>
      <span class="about-link-text">GitHub</span>
   </a>
-  <a href="mailto:evanmuis@student.ubc.ca" class="about-link" rel="" target="">
+  <a href="/jloesber@student.ubc.ca" class="about-link" rel="" target="">
     <i class="bi bi-envelope-at"></i>
      <span class="about-link-text">Email</span>
   </a>
 </div>
   </div>
   <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Hello! My name is Evan, and I am a PhD candidate at the Integrated Remote Sensing Studio at the University of British Columbia.</p>
-<p>I currently research how we can use satellite products such as forest structure and productivity metrics to assess protected area effectiveness and ecological integrity. At the moment, I am working on assessing the impact of the human footprint on ecological integrity across Vancouver Island.</p>
-<p>My broader research interests are big data processing, and how we can use satellite imagery to assess biodiversity from space. I am hugely interested in reproducible science, and typically use R (and Quarto) in my day to day work, although I do dabble in Python and would love to learn Julia, if I ever find the time.</p>
-<p>Outside of work, I am an amateur birder and enjoy powerlifting, running, and playing recreational soccer. I spend a lot of my free time hiking and backpacking, and also enjoy playing video games.</p>
-<p>Evan</p>
+<p>I’m a PhD candidate with Jennifer Williams in the Department of Geography and the Biodiversity Research Centre at the University of British Columbia. I’m a plant population ecologist (although previously I have worked with small mammals).</p>
+<p>I’m broadly interested in understanding the demographic processes underlying population responses to changes in precipitation and temperature. My research interests also include informing conversation efforts of rare species and ecosystems with demographic modeling.</p>
+<p>My PhD examines how life-history trade-offs (costs of reproduction; trade-offs between clonal and sexual reproduction), conspecific neighbors, and density of invasive plant neighbors interact with climate drivers to influence plant demography and population persistence. I look at these processes in native forbs and invasive grasses within a long term rainfall manipulation experiment in Garry Oak meadows on Vancouver Island.</p>
 
 
 </main></div>
@@ -185,7 +175,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const onCopySuccess = function(e) {
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -217,37 +218,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/jloesberg\.github\.io\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
