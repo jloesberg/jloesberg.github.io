@@ -6,7 +6,7 @@ about:
   image-shape: round
   image-width: 20em
   links: 
-    - icon: 
+    - icon: Email
       text: Williams' Lab
       href: https://williamslabubc.weebly.com/
     - icon: github
