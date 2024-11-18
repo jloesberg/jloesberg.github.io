@@ -17,8 +17,8 @@ about:
       href: mailto:jloesber@student.ubc.ca
 ---
 
-I'm a PhD candidate with Jennifer Williams in the Department of Geography and the Biodiversity Research Centre at the Univeristy of British Columbia. I'm a plant population ecologist (although I also have a background working with small mammals). 
+I'm a PhD candidate with Jennifer Williams in the Department of Geography and the Biodiversity Research Centre at the Univeristy of British Columbia. I'm a plant population ecologist (although I also have a background working with small mammals).
 
 I'm broadly interested in understanding the demographic processes underlying population response to changes in precipitation and temperature. My research interests also include informing conversation efforts of rare species and ecosystems through demographic modeling.
 
-My PhD examines how life-history trade-offs (costs of reproduction; clonal versus sexual reproduction), conspecific neighbors, and density of invasive plant neighbors interact with climate drivers to influence plant demography and population persistence. I look at these processes in native forbs and invasive grasses within a rainfall manipulation experiment in Garry Oak meadows on Vancouver Island. 
+My PhD examines how life-history trade-offs (costs of reproduction; clonal versus sexual reproduction), conspecific neighbors, and density of invasive plant neighbors interact with climate drivers to influence plant demography and population persistence. I look at these processes in native forbs and invasive grasses within a rainfall manipulation experiment in Garry Oak meadows on Vancouver Island.
