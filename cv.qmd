@@ -2,6 +2,8 @@
 title: "Curriculum Vitae"
 ---
 
+![](media/DSC_0107.JPG){fig-align="center" width="509"}
+
 # Education
 
 **PhD. in Geography** expected August 2025, *University of British Columbia, Vancouver BC*
@@ -123,6 +125,6 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 
 Organizer of **Florum**, a plant ecology discussion group at the Biodiversity Research Centre – Fall 2024 & Spring 2025
 
-![](media/Screenshot (7).png){fig-align="left"}
+![](media/Screenshot%20(7).png){fig-align="left"}
 
 ![Granivores (California Towhee and kangaroo rat) visiting seed depots](media/krat.JPG)
