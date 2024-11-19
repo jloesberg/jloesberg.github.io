@@ -123,8 +123,6 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 
 Organizer of **Florum**, a plant ecology discussion group at the Biodiversity Research Centre – Fall 2024 & Spring 2025
 
-```         
-![Kangaroo rat eating from seed depots](media/krat.jpeg)
-```
+![](media/Screenshot (7).png){fig-align="left"}
 
-! \[California towhee eating from seed depots\](media/Screenshot (7).png)
+![Granivores (California Towhee and kangaroo rat) visiting seed depots](media/krat.JPG)
