@@ -2,7 +2,7 @@
 title: "Curriculum Vitae"
 ---
 
-![](media/DSC_0107.JPG){fig-align="center" width="509"}
+![](media/DSC_0107.JPG){fig-align="center" width="563"}
 
 # Education
 
@@ -28,6 +28,62 @@ Hesketh, A\*.*;* **Loesberg, J.***\**; Bledsoe, E.; Karst, J.; Macdonald, E. 202
 **Loesberg, J.A.** & W.M. Meyer. 2021. Granivory in California sage scrub: implications for plant invasions and ecosystem conservation. *Plant Ecology* 222: 1089-1100.
 
 Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W.M. 2019. Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. *Ecology and Evolution* 9(8): 1-14.
+
+# Certificates
+
+**Certificate in Data Management and Reproducible Research**, Canadian Institute of Ecology and Evolution (2022)
+
+# Research Experience
+
+**Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021. Learn more about this project [here](https://www.ciee-icee.ca/ldp-stories/the-seasonal-and-annual-dynamics-of-canadian-boreal-forests) and [here.](https://pubmed.ncbi.nlm.nih.gov/35796420/)
+
+**Graduate Research Assistant**, University of British Columbia, Vancouver BC: 2019 - Current
+
+**Field Technician**, with Toni Lyn Morelli & Alexej Siren, University of Massachusetts, Amherst MA: 2017
+
+**Research Technician**, with Wallace Meyer III, Pomona College, Claremont CA: 2017-2018
+
+**Lab Assistant**, with Diane Thomson, Keck Science Center, Claremont CA: 2017
+
+**Field Technician**, Rio Mora National Wildlife Refuge, Mora NM: 2016
+
+**Doris Duke Conservation Scholar**, Northern Arizona University, Flagstaff AZ: 2016 - 2018
+
+**Lab Assistant**, with Branwen Williams, Keck Science Center, Claremont CA: 2015 - 2018
+
+**‘Imi i ka Lama Collegiate Intern**, Endangered Wildlife Management Division, Haleakalā National Park, Maui HI: 2015
+
+# Teaching Experience
+
+**Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – Current)
+
+-   Our Changing Environment: Climate and Ecosystems (GEOB102)
+
+-   Introduction to Biogeography (GEOS 207)
+
+-   Paleoecology: Lessons for the Anthropocene (GEOS 306)
+
+-   Biogeography and Global Change (GEOS 307)
+
+-   Vegetation Dynamics: Disturbance, Climate and Human Impacts (GEOS 407)
+
+**Teaching Assistant**, Keck Science Center, Claremont CA (2016 - 2018)
+
+-   Introductory Biology Lab (BIO44L)
+
+-   Science and the Environment Lab (EA30L)
+
+# Mentoring
+
+**Erin McHugh** – Field assistant; career and academic mentorship (2023) *Currently:* MSc student at University of Toronto
+
+**Bellie Zhu** – Lab assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2023) *Currently:* MSc student at Columbia University
+
+**Ria Raut** - Field and lab assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2022) *Currently:* PhD student at UC Berkeley
+
+**Lindsay Worden** – Field assistant (2022) *Currently:* MSc student at University of Victoria
+
+**Piper Battersby** – Field assistant; career and academic mentorship; mentorship on summer internship projects: creating a grass identification guide for the field site and estimating the effect of phenology on seed production (2021-2023)
 
 # Presentations
 
@@ -62,60 +118,6 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 **Americorps National Service Award** (2015)
 
 **Pitzer Scholarship** (Pitzer College, 2014-2018)
-
-# Certificates
-
-**Certificate in Data Management and Reproducible Research**, Canadian Institute of Ecology and Evolution (2022)
-
-# Research Experience
-
-**Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021
-
-**Graduate Research Assistant**, University of British Columbia, Vancouver BC: 2019 - Current
-
-**Field Technician**, with Toni Lyn Morelli & Alexej Siren, University of Massachusetts, Amherst MA: 2017
-
-**Research Technician**, with Wallace Meyer III, Pomona College, Claremont CA: 2017-2018
-
-**Lab Assistant**, with Diane Thomson, Keck Science Center, Claremont CA: 2017
-
-**Field Technician**, Rio Mora National Wildlife Refuge, Mora NM: 2016
-
-**Doris Duke Conservation Scholar**, Northern Arizona University, Flagstaff AZ: 2016 - 2018
-
-**Lab Assistant**, with Branwen Williams, Keck Science Center, Claremont CA: 2015 - 2018
-
-**‘Imi i ka Lama Collegiate Intern**, Endangered Wildlife Management Division, Haleakalā National Park, Maui HI: 2015
-
-# Teaching Experience
-
-**Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – Current)
-
--   Our Changing Environment: Climate and Ecosystems (GEOB102)
-
--   Biogeography and Global Change (GEOS 307)
-
--   Paleoecology: Lessons for the Anthropocene (GEOS 306)
-
--   Introduction to Biogeography (GEOS 207)
-
-**Teaching Assistant**, Keck Science Center, Claremont CA (2016 - 2018)
-
--   Introductory Biology Lab (BIO44L)
-
--   Science and the Environment Lab (EA30L)
-
-# Mentoring
-
-**Erin McHugh** – Field Assistant; career and academic mentorship (2023) *Currently:* MSc student at University of Toronto
-
-**Bellie Zhu** – Lab Assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2023) *Currently:* MSc student at Columbia University
-
-**Ria Raut** - Field and Lab Assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2022) *Currently:* PhD student at UC Berkeley
-
-**Lindsay Worden** – Field Assistant (2022) *Currently:* MSc student at University of Victoria
-
-**Piper Battersby** – Field Assistant; career and academic mentorship; mentorship on summer internship projects: Grass Identification Guide for the field site and estimating effect of phenology on seed production (2021-2023)
 
 # Working Groups
 
