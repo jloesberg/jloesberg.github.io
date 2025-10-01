@@ -4,7 +4,11 @@ title: ""
 
 # Publications
 
-(In Review) **Loesberg, J.A.** & J.L. Williams. Seasonal climate drives population growth but not costs of reproduction of a perennial wildflower. *Submitted to Ecology*
+(In review) Jennifer L. Williams, Amy L. Angert, Aldo Compagnoni, Ali Campbell, Megan L. DeMarche, Margaret E. K. Evans, Joshua C. Fowler, Edgar J. González, Amy M. Iler, **Jenna A. Loesberg**, Allison M. Louthan, Alexandra Jimenez Martin, Jacob K. Moutouama, Scott W. Nordstrom, William K. Petry, Bilgecan Şen, Seema N. Sheth, Tom E. X. Miller. Linking climate to demography to predict future climate change impacts on population dynamics and persistence. *Submitted to Ecology Letters*
+
+(In review) **Loesberg, J.A.** & J.L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+
+(Accepted) **Loesberg, J.A.** & J.L. Williams. Seasonal climate drives population growth but not costs of reproduction of a perennial wildflower. *Submitted to Ecology*
 
 (In Review) Clark, J.; Siren, A.; **Loesberg, J.**; Morelli, T.L. SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Submitted to Ecology and Evolution*
 
@@ -16,13 +20,9 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**, C.R. Robins; Meyer, W
 
 # Manuscripts in progress
 
-(In prep) Jennifer L. Williams, Amy L. Angert, Aldo Compagnoni, Ali Campbell, Megan L. DeMarche, Margaret E. K. Evans, Joshua C. Fowler, Edgar J. González, Amy M. Iler, **Jenna A. Loesberg**, Allison M. Louthan, Alexandra Jimenez Martin, Jacob K. Moutouama, Scott W. Nordstrom, William K. Petry, Bilgecan Şen, Seema N. Sheth, Tom E. X. Miller. Linking climate to demography to predict future climate change impacts on population dynamics and persistence. *In preparation to send to Ecology Letters*
+(In prep) Scott W. Nordstrom, **Jenna A. Loesberg**, Jennifer L. Williams. Direct effects of rainfall manipulation influence population growth more than flowering phenology for a temperate perennial herb. *In preparation to send to PNAS*
 
-(In prep) Scott W. Nordstrom, **Jenna A. Loesberg**, Jennifer L. Williams. Bud emergence phenology advances with simulated drought but only weakly affects population growth of an herbaceous perennial *In preparation to send to PNAS*
-
-(In prep) **Jenna A. Loesberg** & Jennifer L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *In preparation to send to Journal of Ecology*
-
-(In prep) **Jenna A. Loesberg** & Jennifer L. Williams. Influence of invasive grass neighbors on population growth of a native annual forb under climate change
+(In prep) **Jenna A. Loesberg** & Jennifer L. Williams. Influence of invasive grass neighbors on population growth of a native annual forb under climate change. *In preparation to send to Journal of Ecology*
 
 (In prep) Jeannette Whitton, Evan Hersch, **Jenna A. Loesberg**, Jennifer L. Williams. Life history differences between sexual and asexual populations of a perennial plant, *Townsendia hookeri* (Asteraceae)
 

@@ -6,11 +6,11 @@ title: "Curriculum Vitae"
 
 # Education
 
-**PhD. in Geography** expected August 2025, *University of British Columbia, Vancouver BC*
+**PhD. in Geography** August 2025, *University of British Columbia, Vancouver BC*
 
 -   Supervisor: Dr. Jennifer Williams
 
--   Dissertation title: “Incorporating understudied factors in demographic responses to climate: Reproductive trade-offs, intraspecific density, and invasive species”
+-   Dissertation title: “Effects of reproductive trade-offs, conspecific density, and invasive species on oak savanna wildflower populations under climate change”
 
 **B.A. in Environmental Analysis: Science Concentration with Honors,** *Pitzer College, Claremont CA* (2018)
 
@@ -18,7 +18,11 @@ title: "Curriculum Vitae"
 
 # Publications
 
-(In Review) **Loesberg, J.A.** & J.L. Williams. Seasonal climate drives population growth but not costs of reproduction of a perennial wildflower. *Submitted to Ecology*
+(In review) Jennifer L. Williams, Amy L. Angert, Aldo Compagnoni, Ali Campbell, Megan L. DeMarche, Margaret E. K. Evans, Joshua C. Fowler, Edgar J. González, Amy M. Iler, **Jenna A. Loesberg**, Allison M. Louthan, Alexandra Jimenez Martin, Jacob K. Moutouama, Scott W. Nordstrom, William K. Petry, Bilgecan Şen, Seema N. Sheth, Tom E. X. Miller. Linking climate to demography to predict future climate change impacts on population dynamics and persistence. *Submitted to Ecology Letters*
+
+(In review) **Loesberg, J.A.** & J.L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+
+(Accepted) **Loesberg, J.A.** & J.L. Williams. Seasonal climate drives population growth but not costs of reproduction of a perennial wildflower. *Submitted to Ecology*
 
 (In Review) Clark, J.; Siren, A.; **Loesberg, J.**; Morelli, T.L. SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Submitted to Ecology and Evolution*
 
@@ -34,6 +38,8 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 **Certificate in Data Management and Reproducible Research**, Canadian Institute of Ecology and Evolution (2022)
 
 # Research Experience
+
+[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern**. Environment and Climate Change Canada & Birds Canada. Current (September - November 2025). Conducting spatial analysis of future climate and wildfire risk for bird species across British Columbia
 
 **Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021. Learn more about this project [here](https://www.ciee-icee.ca/ldp-stories/the-seasonal-and-annual-dynamics-of-canadian-boreal-forests) and [here.](https://pubmed.ncbi.nlm.nih.gov/35796420/)
 
@@ -55,7 +61,7 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 
 # Teaching Experience
 
-**Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – Current)
+**Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – 2025)
 
 -   Our Changing Environment: Climate and Ecosystems (GEOB102)
 
