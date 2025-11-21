@@ -39,7 +39,7 @@ Caspi, T.; L.A. Hartz; A.E. Soto Villa; **J.A. Loesberg**; C.R. Robins; Meyer, W
 
 # Research Experience
 
-[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025-Current. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and ebird distributions
+[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025-Current. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and eBird distributions
 
 **Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021. Data resuce project archiving a 40-year dataset for Alberta boreal forests. Learn more about this project [here](https://www.ciee-icee.ca/ldp-stories/the-seasonal-and-annual-dynamics-of-canadian-boreal-forests) and [here.](https://pubmed.ncbi.nlm.nih.gov/35796420/)
 
