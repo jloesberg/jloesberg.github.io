@@ -4,6 +4,8 @@ title: ""
 
 # Publications
 
+(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to PNAS (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
+
 (In review) **Loesberg, J.A.** & J.L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
 
 Clark, J.; Siren, A.; **Loesberg, J.**; Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
@@ -20,9 +22,7 @@ Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., 
 
 # Manuscripts in progress
 
-(In prep) Scott W. Nordstrom, **Jenna A. Loesberg**, Jennifer L. Williams. Direct effects of rainfall manipulation influence population growth more than flowering phenology for a temperate perennial herb. *In preparation to send to PNAS*
-
-(In prep) **Jenna A. Loesberg** & Jennifer L. Williams. Influence of invasive grass neighbors on population growth of a native annual forb under climate change. *In preparation to send to Journal of Ecology*
+(In prep) **Jenna A. Loesberg** & Jennifer L. Williams. Influence of invasive grass neighbors on population growth of a native annual forb under climate change.
 
 (In prep) Jeannette Whitton, Evan Hersch, **Jenna A. Loesberg**, Jennifer L. Williams. Life history differences between sexual and asexual populations of a perennial plant, *Townsendia hookeri* (Asteraceae)
 

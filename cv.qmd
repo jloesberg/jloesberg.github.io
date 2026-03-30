@@ -6,7 +6,7 @@ title: "Curriculum Vitae"
 
 # Education
 
-**PhD. in Geography** August 2025, *University of British Columbia, Vancouver BC*
+**PhD. in Geography**, *University of British Columbia, Vancouver BC* (2025)
 
 -   Supervisor: Dr. Jennifer Williams
 
@@ -16,11 +16,17 @@ title: "Curriculum Vitae"
 
 -   Thesis title: “Preliminary examination of seed predator preference in California sage scrub: implications for ecological resistance” [Now published here](https://link.springer.com/article/10.1007/s11258-021-01163-z)
 
+# Current Position:
+
+Postdoctoral Fellow, Williams Lab, University of British Columbia, Department of Geography and the Biodiversity Research Centre
+
 # Publications
 
-(In review) **Loesberg, J.A.** & J.L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to PNAS (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
 
-Clark, J.; Siren, A.; **Loesberg, J.**; Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
+(In review) **Loesberg, J.A.** & Williams, J. L. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+
+Clark, J.; Siren, A., **Loesberg, J.**, Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
 
 Williams, J. L., Angert, A. L., Compagnoni, A., Campbell, A., DeMarche, M. L., Evans, M. E. K., Fowler, J. C., González, E. J., Iler, A. M., **Loesberg, J. A.**, Louthan, A. M., Martin, A. B., Moutouama, J. K., Nordstrom, S. W., Petry, W. K., Şen, B., Sheth, S. N., & Miller, T. E. X. (2025). Linking Climate and Demography to Predict Population Dynamics and Persistence Under Global Change. *Ecology Letters*, 28(12), e70283. <https://doi.org/10.1111/ele.70283>
 
@@ -28,7 +34,7 @@ Williams, J. L., Angert, A. L., Compagnoni, A., Campbell, A., DeMarche, M. L., E
 
 Hesketh, A. V.\*, **Loesberg, J. A.**\*, Bledsoe, E. K., Karst, J., & Macdonald, S. E. (2022). Seasonal and annual dynamics of western Canadian boreal forest plant communities: A legacy data set spanning four decades. *Ecology*, 103(11), e3805. <https://doi.org/10.1002/ecy.3805> *\* indicates equal contribution*
 
-**Loesberg, J. A.**, & Meyer, W. M. (2021). Granivory in California sage scrub: Implications for common plant invaders and ecosystem conservation. *Plant Ecology,* 222(10), 1089–1100. <https://doi.org/10.1007/s11258-021-01163-z>
+**Loesberg, J. A.** & Meyer, W. M. (2021). Granivory in California sage scrub: Implications for common plant invaders and ecosystem conservation. *Plant Ecology,* 222(10), 1089–1100. <https://doi.org/10.1007/s11258-021-01163-z>
 
 Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., & Meyer, W. M. (2019). Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. *Ecology and Evolution*, *9*(8), 4980–4993. <https://doi.org/10.1002/ece3.5104>
 
@@ -38,7 +44,7 @@ Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., 
 
 # Research Experience
 
-[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025-Current. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and eBird distributions
+[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and eBird distributions
 
 **Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021. Data rescue project archiving a 40-year data set for Alberta boreal forests. Learn more about this project [here](https://www.ciee-icee.ca/ldp-stories/the-seasonal-and-annual-dynamics-of-canadian-boreal-forests) and [here.](https://pubmed.ncbi.nlm.nih.gov/35796420/)
 
