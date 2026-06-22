@@ -22,9 +22,9 @@ Postdoctoral Fellow, Williams Lab, University of British Columbia, Department of
 
 # Publications
 
-(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to PNAS (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
+(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to Ecology Letters (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
 
-(In review) **Loesberg, J.A.** & Williams, J. L. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+**Loesberg, J. A.**, & Williams, J. L. (2026). Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Journal of Ecology*, *114*(6), e70376.   <https://doi.org/10.1111/1365-2745.70376>
 
 Clark, J.; Siren, A., **Loesberg, J.**, Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
 
@@ -37,6 +37,12 @@ Hesketh, A. V.\*, **Loesberg, J. A.**\*, Bledsoe, E. K., Karst, J., & Macdonald,
 **Loesberg, J. A.** & Meyer, W. M. (2021). Granivory in California sage scrub: Implications for common plant invaders and ecosystem conservation. *Plant Ecology,* 222(10), 1089–1100. <https://doi.org/10.1007/s11258-021-01163-z>
 
 Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., & Meyer, W. M. (2019). Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. *Ecology and Evolution*, *9*(8), 4980–4993. <https://doi.org/10.1002/ece3.5104>
+
+[REPORTS]{.underline}
+
+**Loesberg, J.** (2025, December). *Trait-based fire sensitivity analysis for British Columbia’s bird species* (Internal report). Birds Canada and Environment and Climate Change Canada. Accessible at   <https://pacificbirds.org/wp-content/uploads/2026/06/Trait-based-Fire-Sensitivity-Analysis-for-BC-Birds-Loesberg-2025.pdf>
+
+**Loesberg, J.** (2025, August). *Surveys of invasive plant spread across elevational gradients in the Coast and Interior Mountains of British Columbia*. Surveys publicly available at   <https://inaturalist.ca/projects/mountain-invasions>
 
 # Certificates
 

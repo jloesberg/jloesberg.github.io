@@ -4,9 +4,9 @@ title: ""
 
 # Publications
 
-(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to PNAS (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
+(Submitted) Nordstrom, S.W., **Loesberg, J.A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to Ecology Letters (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v1))*
 
-(In review) **Loesberg, J.A.** & J.L. Williams. Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Submitted to Journal of Ecology*
+**Loesberg, J. A.**, & Williams, J. L. (2026). Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Journal of Ecology*, *114*(6), e70376.   <https://doi.org/10.1111/1365-2745.70376>
 
 Clark, J.; Siren, A.; **Loesberg, J.**; Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
 
