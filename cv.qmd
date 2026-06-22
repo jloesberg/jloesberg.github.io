@@ -38,9 +38,9 @@ Hesketh, A. V.\*, **Loesberg, J. A.**\*, Bledsoe, E. K., Karst, J., & Macdonald,
 
 Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., & Meyer, W. M. (2019). Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. *Ecology and Evolution*, *9*(8), 4980–4993. <https://doi.org/10.1002/ece3.5104>
 
-[REPORTS]{.underline}
+# Reports
 
-**Loesberg, J.** (2025, December). *Trait-based fire sensitivity analysis for British Columbia’s bird species* (Internal report). Birds Canada and Environment and Climate Change Canada. Accessible at   <https://pacificbirds.org/wp-content/uploads/2026/06/Trait-based-Fire-Sensitivity-Analysis-for-BC-Birds-Loesberg-2025.pdf>
+**Loesberg, J.** (2025, December). *Trait-based fire sensitivity analysis for British Columbia’s bird species* (Internal report). Birds Canada and Environment and Climate Change Canada. Accessible at <https://pacificbirds.org/2026/06/bc-birds-fire/>
 
 **Loesberg, J.** (2025, August). *Surveys of invasive plant spread across elevational gradients in the Coast and Interior Mountains of British Columbia*. Surveys publicly available at   <https://inaturalist.ca/projects/mountain-invasions>
 
