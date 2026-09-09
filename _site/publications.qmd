@@ -1,0 +1,6 @@
+---
+title: "Publications"
+bibliography: references.bib
+---
+
+[@muise2022; @muise2024]

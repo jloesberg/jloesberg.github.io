@@ -1,0 +1,151 @@
+---
+title: "Curriculum Vitae"
+---
+
+![](media/DSC_0107.JPG){fig-align="center" width="563"}
+
+# Education
+
+**PhD. in Geography**, *University of British Columbia, Vancouver BC* (2025)
+
+- Supervisor: Dr. Jennifer Williams
+
+- Dissertation title: “Effects of reproductive trade-offs, conspecific density, and invasive species on oak savanna wildflower populations under climate change”
+
+**B.A. in Environmental Analysis: Science Concentration with Honors,** *Pitzer College, Claremont CA* (2018)
+
+- Thesis title: “Preliminary examination of seed predator preference in California sage scrub: implications for ecological resistance” [Now published here](https://link.springer.com/article/10.1007/s11258-021-01163-z)
+
+# Current Position:
+
+Postdoctoral Fellow, Team Shrub, University of British Columbia, Department of Forest and Conservation Sciences and the Biodiversity Research Centre
+
+# Publications
+
+(Submitted) **Loesberg, J. A.**, & Williams, J. L. Warm winters and summers benefit an invasive grass over a native wildflower though direct effects on population growth. *Submitted to Journal of Ecology*
+
+(Submitted) Nordstrom, S.W., **Loesberg, J. A.**, Battersby, P., Williams, J. L. Earlier flowering explains only a small part of experimental drought's effects on wildflower's population growth. *Submitted to Ecology Letters (preprint available [here](https://www.biorxiv.org/content/10.64898/2026.03.25.714308v2))*
+
+**Loesberg, J. A.**, & Williams, J. L. (2026). Conspecific density and reproductive trade-offs govern population response to climate in a clonal wildflower. *Journal of Ecology*, *114*(6), e70376.   <https://doi.org/10.1111/1365-2745.70376>
+
+Clark, J.; Siren, A., **Loesberg, J.**, Morelli, T.L. (2025). SiMPL Wildlife Magnet: A camera trap tool for detecting all creatures great and small. *Ecology and Evolution,* 15(12), e72342. <https://doi.org/10.1002/ece3.72342>
+
+Williams, J. L., Angert, A. L., Compagnoni, A., Campbell, A., DeMarche, M. L., Evans, M. E. K., Fowler, J. C., González, E. J., Iler, A. M., **Loesberg, J. A.**, Louthan, A. M., Martin, A. B., Moutouama, J. K., Nordstrom, S. W., Petry, W. K., Şen, B., Sheth, S. N., & Miller, T. E. X. (2025). Linking Climate and Demography to Predict Population Dynamics and Persistence Under Global Change. *Ecology Letters*, 28(12), e70283. <https://doi.org/10.1111/ele.70283>
+
+**Loesberg, J. A.** & Williams, J. L. (2025). Seasonal climate drives population growth but not costs of reproduction of a perennial wildflower. *Ecology*, 106(12), e70240. <https://doi.org/10.1002/ecy.70240>
+
+Hesketh, A. V.\*, **Loesberg, J. A.**\*, Bledsoe, E. K., Karst, J., & Macdonald, S. E. (2022). Seasonal and annual dynamics of western Canadian boreal forest plant communities: A legacy data set spanning four decades. *Ecology*, 103(11), e3805. <https://doi.org/10.1002/ecy.3805> *\* indicates equal contribution*
+
+**Loesberg, J. A.** & Meyer, W. M. (2021). Granivory in California sage scrub: Implications for common plant invaders and ecosystem conservation. *Plant Ecology,* 222(10), 1089–1100. <https://doi.org/10.1007/s11258-021-01163-z>
+
+Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., & Meyer, W. M. (2019). Impacts of invasive annuals on soil carbon and nitrogen storage in southern California depend on the identity of the invader. *Ecology and Evolution*, *9*(8), 4980–4993. <https://doi.org/10.1002/ece3.5104>
+
+# Reports
+
+**Loesberg, J.** (2025, December). *Trait-based fire sensitivity analysis for British Columbia’s bird species* (Internal report). Birds Canada and Environment and Climate Change Canada. Accessible at <https://pacificbirds.org/2026/06/bc-birds-fire/>
+
+**Loesberg, J.** (2025, August). *Surveys of invasive plant spread across elevational gradients in the Coast and Interior Mountains of British Columbia*. Surveys publicly available at   <https://inaturalist.ca/projects/mountain-invasions>
+
+# Certificates
+
+**Certificate in Data Management and Reproducible Research**, Canadian Institute of Ecology and Evolution (2022) - Program consisted of technical skills courses, completion of a data rescue internship, and EDI and career trainings
+
+# Research Experience
+
+[**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and eBird distributions
+
+**Living Data Project Intern**, Canadian Institute of Ecology and Evolution (CIEE): 2020-2021. Data rescue project archiving a 40-year data set for Alberta boreal forests. Learn more about this project [here](https://www.ciee-icee.ca/ldp-stories/the-seasonal-and-annual-dynamics-of-canadian-boreal-forests) and [here.](https://pubmed.ncbi.nlm.nih.gov/35796420/)
+
+**Graduate Research Assistant**, University of British Columbia, Vancouver BC: 2019 - 2025.
+
+**Field Technician**, with Toni Lyn Morelli & Alexej Siren, University of Massachusetts, Amherst MA: 2017
+
+**Research Technician**, with Wallace Meyer III, Pomona College, Claremont CA: 2017-2018
+
+**Lab Assistant**, with Diane Thomson, Keck Science Center, Claremont CA: 2017
+
+**Field Technician**, Rio Mora National Wildlife Refuge, Mora NM: 2016
+
+**Doris Duke Conservation Scholar**, Northern Arizona University, Flagstaff AZ: 2016 - 2018
+
+**Lab Assistant**, with Branwen Williams, Keck Science Center, Claremont CA: 2015 - 2018
+
+**‘Imi i ka Lama Collegiate Intern**, Endangered Wildlife Management Division, Haleakalā National Park, Maui HI: 2015
+
+# Teaching Experience
+
+**Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – 2025)
+
+- Our Changing Environment: Climate and Ecosystems (GEOB102)
+
+- Introduction to Biogeography (GEOS 207)
+
+- Paleoecology: Lessons for the Anthropocene (GEOS 306)
+
+- Biogeography and Global Change (GEOS 307)
+
+- Vegetation Dynamics: Disturbance, Climate and Human Impacts (GEOS 407)
+
+**Teaching Assistant**, Keck Science Center, Claremont CA (2016 - 2018)
+
+- Introductory Biology Lab (BIO44L)
+
+- Science and the Environment Lab (EA30L)
+
+# Mentoring
+
+**Erin McHugh** – Field assistant; career and academic mentorship (2023) *Currently:* MSc student at University of Toronto
+
+**Bellie Zhu** – Lab assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2023) *Currently:* MSc student at Columbia University
+
+**Ria Raut** - Field and lab assistant; mentorship on summer fellowship project (effect of herbivory on annual forb fitness) (2022) *Currently:* PhD student at UC Berkeley
+
+**Lindsay Worden** – Field assistant (2022) *Currently:* MSc student at University of Victoria
+
+**Piper Battersby** – Field assistant; career and academic mentorship; mentorship on summer internship projects: creating a grass identification guide for the field site and estimating the effect of phenology on seed production (2021-2023)
+
+# Presentations
+
+2024 Talk: **Ecological Society of America**, Long Beach, CA
+
+2024 Talk: **Canadian Society of Ecology and Evolution**, Vancouver BC
+
+2023 Poster: **Garry Oak Ecosystems Recovery Team Meeting**, Victoria, BC
+
+2023 Talk: **Biodiversity Research Centre Ecology and Evolution Retreat**, Brakendale, BC
+
+2023 Talk: **Ecological Society of America**, Portland, OR
+
+2018 Poster: **Keck Science Department Thesis Seminar**, Claremont CA
+
+# Awards
+
+**Department of Geography Graduate Student Travel Award** (UBC, 2024)
+
+**Graduate Student Travel Award** (UBC, 2024)
+
+**Four Year Fellowship** (UBC, 2021-2025)
+
+**Four Year Fellowship Tuition Award** (UBC, 2021-2025)
+
+**President’s Academic Excellence Initiative PhD Award** (UBC, 2020-2025)
+
+**International Student Tuition Award** (UBC, 2019-2025)
+
+**Graduate Student Initiative Award** (UBC, 2019-2021)
+
+**Americorps National Service Award** (2015)
+
+**Pitzer Scholarship** (Pitzer College, 2014-2018)
+
+# Working Groups
+
+**Linking climate & demography** – Rice University, December 2023 - Reviewing and synthesizing methods to link climatic and demographic data, with a focus on scaling effects of climate to population dynamics
+
+# Discussion Groups
+
+Organizer of **Florum**, a plant ecology discussion group at the Biodiversity Research Centre – Fall 2024 & Spring 2025
+
+![](media/Screenshot%20(7).png){fig-align="left"}
+
+![Granivores (California Towhee and kangaroo rat) visiting seed depots](media/krat.JPG)
