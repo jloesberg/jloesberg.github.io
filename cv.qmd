@@ -8,17 +8,17 @@ title: "Curriculum Vitae"
 
 **PhD. in Geography**, *University of British Columbia, Vancouver BC* (2025)
 
--   Supervisor: Dr. Jennifer Williams
+- Supervisor: Dr. Jennifer Williams
 
--   Dissertation title: “Effects of reproductive trade-offs, conspecific density, and invasive species on oak savanna wildflower populations under climate change”
+- Dissertation title: “Effects of reproductive trade-offs, conspecific density, and invasive species on oak savanna wildflower populations under climate change”
 
 **B.A. in Environmental Analysis: Science Concentration with Honors,** *Pitzer College, Claremont CA* (2018)
 
--   Thesis title: “Preliminary examination of seed predator preference in California sage scrub: implications for ecological resistance” [Now published here](https://link.springer.com/article/10.1007/s11258-021-01163-z)
+- Thesis title: “Preliminary examination of seed predator preference in California sage scrub: implications for ecological resistance” [Now published here](https://link.springer.com/article/10.1007/s11258-021-01163-z)
 
 # Current Position:
 
-Postdoctoral Fellow, Williams Lab, University of British Columbia, Department of Geography and the Biodiversity Research Centre
+Postdoctoral Fellow, Team Shrub, University of British Columbia, Department of Forest and Conservation Sciences and the Biodiversity Research Centre
 
 # Publications
 
@@ -76,21 +76,21 @@ Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., 
 
 **Teaching Assistant**, Department of Geography, UBC, Vancouver BC (2019 – 2025)
 
--   Our Changing Environment: Climate and Ecosystems (GEOB102)
+- Our Changing Environment: Climate and Ecosystems (GEOB102)
 
--   Introduction to Biogeography (GEOS 207)
+- Introduction to Biogeography (GEOS 207)
 
--   Paleoecology: Lessons for the Anthropocene (GEOS 306)
+- Paleoecology: Lessons for the Anthropocene (GEOS 306)
 
--   Biogeography and Global Change (GEOS 307)
+- Biogeography and Global Change (GEOS 307)
 
--   Vegetation Dynamics: Disturbance, Climate and Human Impacts (GEOS 407)
+- Vegetation Dynamics: Disturbance, Climate and Human Impacts (GEOS 407)
 
 **Teaching Assistant**, Keck Science Center, Claremont CA (2016 - 2018)
 
--   Introductory Biology Lab (BIO44L)
+- Introductory Biology Lab (BIO44L)
 
--   Science and the Environment Lab (EA30L)
+- Science and the Environment Lab (EA30L)
 
 # Mentoring
 
