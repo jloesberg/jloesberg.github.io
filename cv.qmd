@@ -18,7 +18,7 @@ title: "Curriculum Vitae"
 
 # Current Position:
 
-Postdoctoral Fellow, Team Shrub, University of British Columbia, Department of Forest and Conservation Sciences and the Biodiversity Research Centre
+Postdoctoral Fellow, Team Shrub, University of British Columbia (Department of Forest and Conservation Sciences and the Biodiversity Research Centre). Supervisor: Isla Myers-Smith
 
 # Publications
 
@@ -51,6 +51,8 @@ Caspi, T., Hartz, L. A., Soto Villa, A. E., **Loesberg, J. A.**, Robins, C. R., 
 **Certificate in Data Management and Reproducible Research**, Canadian Institute of Ecology and Evolution (2022) - Program consisted of technical skills courses, completion of a data rescue internship, and EDI and career trainings
 
 # Research Experience
+
+Postdoctoral Fellow, Williams Lab, University of British Columbia (Department of Geography and the Biodiversity Research Centre): 2026. Supervisor: Jennifer Williams
 
 [**BRITE**](https://biodiversity.ubc.ca/training-and-award-opportunities/brite) **Intern and Data Analyst**. Environment and Climate Change Canada & Birds Canada. 2025. Developing a trait-based fire vulnerability index for BC bird species and conducting spatial analysis of future wildfire risk and eBird distributions
 
